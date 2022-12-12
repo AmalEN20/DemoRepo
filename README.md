@@ -9,4 +9,5 @@
 - I made comments to better identify what section of code applied to which section of the website.
 
 - I updated the title to be the "Company Name" so that it appears on the browser tab at the top.
+<img width="1161" alt="Screen Shot 2022-12-11 at 9 32 59 PM" src="https://user-images.githubusercontent.com/116880367/206967952-3523a83d-9cfe-40db-a2f4-8c9b579fa13c.png">
 
